@@ -1,0 +1,15 @@
+{
+  "name": "warp-daemon-5909",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 8828,
+    "createdAt": "2026-09-08T11:11:04.286Z"
+  }
+}
